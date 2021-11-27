@@ -1,0 +1,10 @@
+﻿global using CommonBasicLibraries.CollectionClasses;
+global using Reminders.BibleCoreLibrary.Models;
+global using Reminders.CoreLibrary.Interfaces;
+global using Reminders.CoreLibrary.Models;
+global using CommonBasicLibraries.BasicDateTimeProcesses;
+global using Reminders.BibleCoreLibrary.DataAccess;
+global using Reminders.CoreLibrary.Logic;
+global using CommonBasicLibraries.BasicDataSettingsAndProcesses;
+global using js = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.JsonSerializers.FileHelpers;
+global using Reminders.CoreLibrary.DataAccess;
